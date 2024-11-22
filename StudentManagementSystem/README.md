@@ -35,7 +35,7 @@ Before diving in, ensure you have the following:
 1. **Clone the Repository:** Obtain your own copy of the project:
 
    ```sh
-   git clone https://github.com/EhsanulHaqueSiam/StudentManagementSystem.git
+   git clone https://github.com/Pavithrabalaji-DA/StudentManagementSystem.git
    ```
 
 2. **Database Configuration:** Configure the database connection:
